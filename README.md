@@ -12,8 +12,9 @@
 - **Tools:** Git, GitHub, VS Code  
 - **Others:** Responsive Design, API integration, Problem solving  
 
-## What I’m Learning
-- Advanced React concepts
+## Currently Practicing
+- Deepening concepts in JavaScript and React  
+- Improving CSS design and responsiveness 
 
 ## Projects
 Check out some of my projects in the [Repositories](https://github.com/Kausar-Meer?tab=repositories) section!
