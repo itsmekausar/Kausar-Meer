@@ -13,13 +13,10 @@
 - **Others:** Responsive Design, API integration, Problem solving  
 
 ## What I’m Learning
-- Advanced React concepts  
-- Full-stack development with MongoDB and Express  
-- Improving interview preparation and soft skills  
+- Advanced React concepts
 
 ## Projects
 Check out some of my projects in the [Repositories](https://github.com/Kausar-Meer?tab=repositories) section!
 
 ## Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn URL]  
+- Email: kausarmeer087@gmail.com  
