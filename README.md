@@ -17,7 +17,7 @@
 - Improving CSS design and responsiveness 
 
 ## Projects
-Check out some of my projects in the [Repositories](https://github.com/Kausar-Meer?tab=repositories) section!
+Check out some of my projects in the [Repositories](https://github.com/itsmekausar?tab=repositories) section!
 
 ## Contact Me
 - Email: kausarmeer087@gmail.com  
