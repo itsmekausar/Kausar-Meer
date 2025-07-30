@@ -6,7 +6,7 @@
 - Skilled in building clean, user-friendly, and scalable web applications  
 - Quick learner and team player, always eager to take on new challenges  
 
-## Skills
+## Skills  
 - **Languages:** JavaScript, HTML, CSS  
 - **Frameworks/Libraries:** React, Tailwind CSS, Bootstrap   
 - **Tools:** Git, GitHub, VS Code  
