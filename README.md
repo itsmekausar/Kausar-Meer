@@ -11,7 +11,7 @@
 - **Frameworks/Libraries:** React, Tailwind CSS, Bootstrap   
 - **Tools:** Git, GitHub, VS Code  
 - **Others:** Responsive Design, API integration, Problem solving  
-   
+      
 ## Currently Practicing 
 - Deepening concepts in JavaScript and React          
 - Improving CSS design and responsiveness 
