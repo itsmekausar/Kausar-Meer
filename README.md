@@ -9,7 +9,7 @@
 ## Skills  
 - **Languages:** JavaScript, HTML, CSS  
 - **Frameworks/Libraries:** React, Tailwind CSS, Bootstrap   
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code    
 - **Others:** Responsive Design, API integration, Problem solving  
       
 ## Currently Practicing 
