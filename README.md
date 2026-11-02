@@ -28,7 +28,7 @@
 - **Invoice Generator Web Application:** Java, Spring Boot, React.js, MySQL.
 - **URL Shortener Web Application:** Java, Spring Boot, React.js, MySQL.
 
-Explore my work in the [Repositories](https://github.com/kausarmeer?tab=repositories) section.
+Explore my work in the [Repositories](https://github.com/itsmekausarmeer?tab=repositories) section.
 
 ## Connect With Me
 - **Email:** kausarmeer087@gmail.com
