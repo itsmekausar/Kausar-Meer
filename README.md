@@ -1,24 +1,36 @@
 # Hi, I'm Kausar Meer 👋
 
+### Java Backend Developer | Software Developer
+
 ## About Me
-- Computer Science Engineer  
-- Enthusiastic Front-End Developer passionate about React, JavaScript, and responsive design  
-- Skilled in building clean, user-friendly, and scalable web applications  
-- Quick learner and team player, always eager to take on new challenges  
+- Computer Science Engineer with 2+ years of development experience.
+- Interested in building backend applications using Java and Spring Boot.
+- Experienced in working with REST APIs, SQL, and database operations.
+- Enjoy solving coding problems, debugging applications, and learning new technologies.
+- Always eager to improve my development skills and build practical projects.
 
-## Skills  
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks/Libraries:** React, Tailwind CSS, Bootstrap       
-- **Tools:** Git, GitHub, VS Code    
-- **Others:** Responsive Design, API integration, Problem solving   
-      
-## Currently Practicing 
-- Deepening concepts in JavaScript and React              
-- Improving CSS design and responsiveness    
-  
+## Technical Skills
+
+- **Programming Languages:** Java, SQL, JavaScript
+- **Backend Development:** Spring Boot, REST APIs
+- **Database:** MySQL
+- **Core Java:** OOP, Collections
+- **Web Technologies:** HTML, CSS, React.js
+- **Tools:** Git, GitHub, Maven, Postman, VS Code
+
+## Currently Learning
+- Strengthening Core Java and Spring Boot concepts.
+- Practicing REST API development and integration.
+- Improving SQL queries and database management.
+- Exploring backend development concepts through hands-on projects.
+
 ## Projects
-Check out some of my projects in the [Repositories](https://github.com/itsmekausar?tab=repositories
-) section! 
+- **Invoice Generator Web Application:** Java, Spring Boot, React.js, MySQL.
+- **URL Shortener Web Application:** Java, Spring Boot, React.js, MySQL.
 
-## Contact Me
-- Email: kausarmeer087@gmail.com  
+Explore my work in the [Repositories](https://github.com/kausarmeer?tab=repositories) section.
+
+## Connect With Me
+- **Email:** kausarmeer087@gmail.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kausarmeer/)
+
